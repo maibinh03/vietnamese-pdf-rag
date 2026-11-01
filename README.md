@@ -8,7 +8,8 @@ Dự án được xây dựng nhằm tạo ra một pipeline RAG hoàn chỉnh, 
 
 **Python, FastAPI** cho backend API;  
 **Sentence Transformers (`intfloat/multilingual-e5-small`)** để tạo multilingual embeddings;  
-**Qdrant** cho vector storage và semantic search; **Ollama (`qwen2.5:3b`)** để tạo câu trả lời;  
+**Qdrant** cho vector storage và semantic search;  
+**Ollama (`qwen2.5:3b`)** để tạo câu trả lời;  
 **SQLite** quản lý metadata và **Docker Compose** để triển khai các dịch vụ.  
 
 ## ✨ Features
