@@ -1,0 +1,853 @@
+[
+  {
+    "id": "direct-001",
+    "category": "direct",
+    "question": "Ai đủ tuổi để đăng ký tài khoản trên ứng dụng?",
+    "reference_answer": "Khách hàng từ 18 tuổi trở lên có thể đăng ký tài khoản thanh toán trên ứng dụng.",
+    "relevant_documents": [
+      "digital_banking.txt"
+    ]
+  },
+  {
+    "id": "direct-002",
+    "category": "direct",
+    "question": "Người 18 tuổi trở lên có thể đăng ký tài khoản thanh toán trên ứng dụng.",
+    "reference_answer": "Khách hàng từ 18 tuổi trở lên có thể đăng ký tài khoản thanh toán trên ứng dụng.",
+    "relevant_documents": [
+      "digital_banking.txt"
+    ]
+  },
+  {
+    "id": "direct-003",
+    "category": "direct",
+    "question": "Cần chuẩn bị giấy tờ và thông tin nào khi đăng ký?",
+    "reference_answer": "Khi đăng ký cần căn cước công dân còn hiệu lực và số điện thoại đang sử dụng.",
+    "relevant_documents": [
+      "digital_banking.txt"
+    ]
+  },
+  {
+    "id": "direct-004",
+    "category": "direct",
+    "question": "Cần căn cước công dân còn hiệu lực và số điện thoại đang sử dụng.",
+    "reference_answer": "Khi đăng ký cần căn cước công dân còn hiệu lực và số điện thoại đang sử dụng.",
+    "relevant_documents": [
+      "digital_banking.txt"
+    ]
+  },
+  {
+    "id": "direct-005",
+    "category": "direct",
+    "question": "Một số điện thoại dùng đăng ký được mấy tài khoản?",
+    "reference_answer": "Một số điện thoại chỉ được đăng ký cho một tài khoản.",
+    "relevant_documents": [
+      "digital_banking.txt"
+    ]
+  },
+  {
+    "id": "direct-006",
+    "category": "direct",
+    "question": "Mỗi số điện thoại chỉ đăng ký được một tài khoản.",
+    "reference_answer": "Một số điện thoại chỉ được đăng ký cho một tài khoản.",
+    "relevant_documents": [
+      "digital_banking.txt"
+    ]
+  },
+  {
+    "id": "direct-007",
+    "category": "direct",
+    "question": "Chuyển khoản nội bộ qua ứng dụng có mất phí không?",
+    "reference_answer": "Chuyển tiền giữa hai tài khoản MauBank trên ứng dụng miễn phí.",
+    "relevant_documents": [
+      "digital_banking.txt"
+    ]
+  },
+  {
+    "id": "direct-008",
+    "category": "direct",
+    "question": "Không. Chuyển tiền giữa hai tài khoản MauBank trên ứng dụng miễn phí.",
+    "reference_answer": "Chuyển tiền giữa hai tài khoản MauBank trên ứng dụng miễn phí.",
+    "relevant_documents": [
+      "digital_banking.txt"
+    ]
+  },
+  {
+    "id": "direct-009",
+    "category": "direct",
+    "question": "Chuyển tiền nội bộ có hoạt động vào cuối tuần không?",
+    "reference_answer": "Chuyển tiền nội bộ trên ứng dụng hoạt động 24/7.",
+    "relevant_documents": [
+      "digital_banking.txt"
+    ]
+  },
+  {
+    "id": "direct-010",
+    "category": "direct",
+    "question": "Có. Dịch vụ hoạt động 24/7.",
+    "reference_answer": "Chuyển tiền nội bộ trên ứng dụng hoạt động 24/7.",
+    "relevant_documents": [
+      "digital_banking.txt"
+    ]
+  },
+  {
+    "id": "direct-011",
+    "category": "direct",
+    "question": "Phí chuyển nhanh liên ngân hàng cho giao dịch 1 triệu đồng là bao nhiêu?",
+    "reference_answer": "Chuyển tiền nhanh đến ngân hàng khác dưới 2.000.000 đồng có phí 1.000 đồng.",
+    "relevant_documents": [
+      "digital_banking.txt"
+    ]
+  },
+  {
+    "id": "direct-012",
+    "category": "direct",
+    "question": "Phí là 1.000 đồng cho giao dịch dưới 2.000.000 đồng.",
+    "reference_answer": "Chuyển tiền nhanh đến ngân hàng khác dưới 2.000.000 đồng có phí 1.000 đồng.",
+    "relevant_documents": [
+      "digital_banking.txt"
+    ]
+  },
+  {
+    "id": "direct-013",
+    "category": "direct",
+    "question": "Phí chuyển nhanh liên ngân hàng từ 2 triệu đồng được tính thế nào?",
+    "reference_answer": "Giao dịch chuyển nhanh liên ngân hàng từ 2.000.000 đồng có phí 0,03%, tối đa 25.000 đồng.",
+    "relevant_documents": [
+      "digital_banking.txt"
+    ]
+  },
+  {
+    "id": "direct-014",
+    "category": "direct",
+    "question": "Phí bằng 0,03% số tiền, tối đa 25.000 đồng.",
+    "reference_answer": "Giao dịch chuyển nhanh liên ngân hàng từ 2.000.000 đồng có phí 0,03%, tối đa 25.000 đồng.",
+    "relevant_documents": [
+      "digital_banking.txt"
+    ]
+  },
+  {
+    "id": "direct-015",
+    "category": "direct",
+    "question": "Hạn mức chuyển tiền mặc định mỗi ngày là bao nhiêu?",
+    "reference_answer": "Hạn mức chuyển tiền mặc định là 100.000.000 đồng mỗi ngày.",
+    "relevant_documents": [
+      "digital_banking.txt"
+    ]
+  },
+  {
+    "id": "direct-016",
+    "category": "direct",
+    "question": "Hạn mức mặc định là 100.000.000 đồng mỗi ngày.",
+    "reference_answer": "Hạn mức chuyển tiền mặc định là 100.000.000 đồng mỗi ngày.",
+    "relevant_documents": [
+      "digital_banking.txt"
+    ]
+  },
+  {
+    "id": "direct-017",
+    "category": "direct",
+    "question": "Làm sao để yêu cầu tăng hạn mức chuyển tiền?",
+    "reference_answer": "Có thể yêu cầu điều chỉnh hạn mức tại quầy sau khi xác minh danh tính.",
+    "relevant_documents": [
+      "digital_banking.txt"
+    ]
+  },
+  {
+    "id": "direct-018",
+    "category": "direct",
+    "question": "Yêu cầu điều chỉnh tại quầy sau khi xác minh danh tính.",
+    "reference_answer": "Có thể yêu cầu điều chỉnh hạn mức tại quầy sau khi xác minh danh tính.",
+    "relevant_documents": [
+      "digital_banking.txt"
+    ]
+  },
+  {
+    "id": "direct-019",
+    "category": "direct",
+    "question": "Thanh toán hóa đơn điện qua ứng dụng có mất phí không?",
+    "reference_answer": "Thanh toán điện, nước và internet trên ứng dụng không thu phí dịch vụ.",
+    "relevant_documents": [
+      "digital_banking.txt"
+    ]
+  },
+  {
+    "id": "direct-020",
+    "category": "direct",
+    "question": "Không thu phí dịch vụ khi thanh toán điện, nước và internet trên ứng dụng.",
+    "reference_answer": "Thanh toán điện, nước và internet trên ứng dụng không thu phí dịch vụ.",
+    "relevant_documents": [
+      "digital_banking.txt"
+    ]
+  },
+  {
+    "id": "direct-021",
+    "category": "direct",
+    "question": "Khung giờ thanh toán hóa đơn là khi nào?",
+    "reference_answer": "Thanh toán hóa đơn được thực hiện hàng ngày từ 00:00 đến 23:00.",
+    "relevant_documents": [
+      "digital_banking.txt"
+    ]
+  },
+  {
+    "id": "direct-022",
+    "category": "direct",
+    "question": "Hàng ngày từ 00:00 đến 23:00.",
+    "reference_answer": "Thanh toán hóa đơn được thực hiện hàng ngày từ 00:00 đến 23:00.",
+    "relevant_documents": [
+      "digital_banking.txt"
+    ]
+  },
+  {
+    "id": "direct-023",
+    "category": "direct",
+    "question": "Tôi có thể gửi yêu cầu hỗ trợ ngoài giờ hành chính không?",
+    "reference_answer": "Hỗ trợ trên ứng dụng hoạt động 24/7.",
+    "relevant_documents": [
+      "digital_banking.txt"
+    ]
+  },
+  {
+    "id": "direct-024",
+    "category": "direct",
+    "question": "Có. Hỗ trợ trên ứng dụng hoạt động 24/7.",
+    "reference_answer": "Hỗ trợ trên ứng dụng hoạt động 24/7.",
+    "relevant_documents": [
+      "digital_banking.txt"
+    ]
+  },
+  {
+    "id": "direct-025",
+    "category": "direct",
+    "question": "Mục tiêu thời gian phản hồi yêu cầu hỗ trợ là bao lâu?",
+    "reference_answer": "Thời gian phản hồi mục tiêu cho yêu cầu hỗ trợ là trong một ngày làm việc.",
+    "relevant_documents": [
+      "digital_banking.txt"
+    ]
+  },
+  {
+    "id": "direct-026",
+    "category": "direct",
+    "question": "Trong một ngày làm việc.",
+    "reference_answer": "Thời gian phản hồi mục tiêu cho yêu cầu hỗ trợ là trong một ngày làm việc.",
+    "relevant_documents": [
+      "digital_banking.txt"
+    ]
+  },
+  {
+    "id": "direct-027",
+    "category": "direct",
+    "question": "Phí duy trì tài khoản hàng tháng bao nhiêu?",
+    "reference_answer": "Phí duy trì tài khoản thanh toán là 0 đồng mỗi tháng.",
+    "relevant_documents": [
+      "fees_and_cards.txt"
+    ]
+  },
+  {
+    "id": "direct-028",
+    "category": "direct",
+    "question": "0 đồng mỗi tháng.",
+    "reference_answer": "Phí duy trì tài khoản thanh toán là 0 đồng mỗi tháng.",
+    "relevant_documents": [
+      "fees_and_cards.txt"
+    ]
+  },
+  {
+    "id": "direct-029",
+    "category": "direct",
+    "question": "Tài khoản cần số dư tối thiểu bao nhiêu để duy trì?",
+    "reference_answer": "Số dư tối thiểu để duy trì tài khoản là 0 đồng.",
+    "relevant_documents": [
+      "fees_and_cards.txt"
+    ]
+  },
+  {
+    "id": "direct-030",
+    "category": "direct",
+    "question": "Không yêu cầu số dư tối thiểu; mức duy trì là 0 đồng.",
+    "reference_answer": "Số dư tối thiểu để duy trì tài khoản là 0 đồng.",
+    "relevant_documents": [
+      "fees_and_cards.txt"
+    ]
+  },
+  {
+    "id": "direct-031",
+    "category": "direct",
+    "question": "Phí phát hành thẻ ghi nợ vật lý lần đầu bao nhiêu?",
+    "reference_answer": "Phí phát hành thẻ ghi nợ vật lý lần đầu là 50.000 đồng.",
+    "relevant_documents": [
+      "fees_and_cards.txt"
+    ]
+  },
+  {
+    "id": "direct-032",
+    "category": "direct",
+    "question": "50.000 đồng.",
+    "reference_answer": "Phí phát hành thẻ ghi nợ vật lý lần đầu là 50.000 đồng.",
+    "relevant_documents": [
+      "fees_and_cards.txt"
+    ]
+  },
+  {
+    "id": "direct-033",
+    "category": "direct",
+    "question": "Phí thường niên thẻ ghi nợ là bao nhiêu?",
+    "reference_answer": "Phí thường niên thẻ ghi nợ là 60.000 đồng mỗi năm.",
+    "relevant_documents": [
+      "fees_and_cards.txt"
+    ]
+  },
+  {
+    "id": "direct-034",
+    "category": "direct",
+    "question": "60.000 đồng mỗi năm.",
+    "reference_answer": "Phí thường niên thẻ ghi nợ là 60.000 đồng mỗi năm.",
+    "relevant_documents": [
+      "fees_and_cards.txt"
+    ]
+  },
+  {
+    "id": "direct-035",
+    "category": "direct",
+    "question": "Phí cấp lại thẻ bị mất là bao nhiêu?",
+    "reference_answer": "Cấp lại thẻ do mất hoặc hỏng có phí 30.000 đồng mỗi lần.",
+    "relevant_documents": [
+      "fees_and_cards.txt"
+    ]
+  },
+  {
+    "id": "direct-036",
+    "category": "direct",
+    "question": "30.000 đồng mỗi lần.",
+    "reference_answer": "Cấp lại thẻ do mất hoặc hỏng có phí 30.000 đồng mỗi lần.",
+    "relevant_documents": [
+      "fees_and_cards.txt"
+    ]
+  },
+  {
+    "id": "direct-037",
+    "category": "direct",
+    "question": "Thẻ ghi nợ ảo có phí phát hành hay thường niên không?",
+    "reference_answer": "Thẻ ghi nợ ảo không thu phí phát hành và không thu phí thường niên.",
+    "relevant_documents": [
+      "fees_and_cards.txt"
+    ]
+  },
+  {
+    "id": "direct-038",
+    "category": "direct",
+    "question": "Không. Thẻ ghi nợ ảo được miễn cả phí phát hành và phí thường niên.",
+    "reference_answer": "Thẻ ghi nợ ảo không thu phí phát hành và không thu phí thường niên.",
+    "relevant_documents": [
+      "fees_and_cards.txt"
+    ]
+  },
+  {
+    "id": "direct-039",
+    "category": "direct",
+    "question": "Rút tiền ở ATM của MauBank có mất phí không?",
+    "reference_answer": "Rút tiền mặt bằng thẻ ghi nợ tại ATM MauBank miễn phí.",
+    "relevant_documents": [
+      "fees_and_cards.txt"
+    ]
+  },
+  {
+    "id": "direct-040",
+    "category": "direct",
+    "question": "Không mất phí.",
+    "reference_answer": "Rút tiền mặt bằng thẻ ghi nợ tại ATM MauBank miễn phí.",
+    "relevant_documents": [
+      "fees_and_cards.txt"
+    ]
+  },
+  {
+    "id": "direct-041",
+    "category": "direct",
+    "question": "Phí rút tiền tại ATM ngân hàng khác trong nước là bao nhiêu?",
+    "reference_answer": "Rút tiền tại ATM ngân hàng khác trong nước có phí 3.000 đồng mỗi giao dịch.",
+    "relevant_documents": [
+      "fees_and_cards.txt"
+    ]
+  },
+  {
+    "id": "direct-042",
+    "category": "direct",
+    "question": "3.000 đồng mỗi giao dịch.",
+    "reference_answer": "Rút tiền tại ATM ngân hàng khác trong nước có phí 3.000 đồng mỗi giao dịch.",
+    "relevant_documents": [
+      "fees_and_cards.txt"
+    ]
+  },
+  {
+    "id": "direct-043",
+    "category": "direct",
+    "question": "Mỗi ngày có thể rút tối đa bao nhiêu tiền tại ATM?",
+    "reference_answer": "Hạn mức rút tiền tại ATM là 20.000.000 đồng mỗi ngày.",
+    "relevant_documents": [
+      "fees_and_cards.txt"
+    ]
+  },
+  {
+    "id": "direct-044",
+    "category": "direct",
+    "question": "20.000.000 đồng mỗi ngày.",
+    "reference_answer": "Hạn mức rút tiền tại ATM là 20.000.000 đồng mỗi ngày.",
+    "relevant_documents": [
+      "fees_and_cards.txt"
+    ]
+  },
+  {
+    "id": "direct-045",
+    "category": "direct",
+    "question": "Có thể yêu cầu tra soát giao dịch trong bao lâu?",
+    "reference_answer": "Có thể yêu cầu tra soát trong vòng 60 ngày kể từ ngày phát sinh giao dịch.",
+    "relevant_documents": [
+      "fees_and_cards.txt"
+    ]
+  },
+  {
+    "id": "direct-046",
+    "category": "direct",
+    "question": "Trong vòng 60 ngày kể từ ngày giao dịch phát sinh.",
+    "reference_answer": "Có thể yêu cầu tra soát trong vòng 60 ngày kể từ ngày phát sinh giao dịch.",
+    "relevant_documents": [
+      "fees_and_cards.txt"
+    ]
+  },
+  {
+    "id": "direct-047",
+    "category": "direct",
+    "question": "Thời gian phản hồi tra soát tối đa là bao lâu?",
+    "reference_answer": "Ngân hàng Mau phản hồi kết quả tra soát trong tối đa 7 ngày làm việc.",
+    "relevant_documents": [
+      "fees_and_cards.txt"
+    ]
+  },
+  {
+    "id": "direct-048",
+    "category": "direct",
+    "question": "Tối đa 7 ngày làm việc.",
+    "reference_answer": "Ngân hàng Mau phản hồi kết quả tra soát trong tối đa 7 ngày làm việc.",
+    "relevant_documents": [
+      "fees_and_cards.txt"
+    ]
+  },
+  {
+    "id": "direct-049",
+    "category": "direct",
+    "question": "Điều kiện để mở tiết kiệm trực tuyến là gì?",
+    "reference_answer": "Khách hàng có tài khoản thanh toán MauBank có thể mở tiết kiệm trực tuyến.",
+    "relevant_documents": [
+      "savings_and_deposits.txt"
+    ]
+  },
+  {
+    "id": "direct-050",
+    "category": "direct",
+    "question": "Cần có tài khoản thanh toán MauBank.",
+    "reference_answer": "Khách hàng có tài khoản thanh toán MauBank có thể mở tiết kiệm trực tuyến.",
+    "relevant_documents": [
+      "savings_and_deposits.txt"
+    ]
+  },
+  {
+    "id": "multi-001",
+    "category": "multi_hop",
+    "question": "Chuyển nội bộ miễn phí và hoạt động liên tục ra sao?",
+    "reference_answer": "Chuyển tiền giữa hai tài khoản MauBank trên ứng dụng miễn phí và hoạt động 24/7.",
+    "relevant_documents": [
+      "digital_banking.txt"
+    ]
+  },
+  {
+    "id": "multi-002",
+    "category": "multi_hop",
+    "question": "Tính phí cho hai giao dịch liên ngân hàng: 1 triệu đồng và 3 triệu đồng.",
+    "reference_answer": "Giao dịch 1 triệu đồng phí 1.000 đồng; giao dịch 3 triệu đồng phí 0,03% tức 900 đồng.",
+    "relevant_documents": [
+      "digital_banking.txt"
+    ]
+  },
+  {
+    "id": "multi-003",
+    "category": "multi_hop",
+    "question": "Khách hàng chuyển 100 triệu đồng liên ngân hàng; hạn mức và phí tối đa có thể áp dụng thế nào?",
+    "reference_answer": "Hạn mức mặc định là 100 triệu đồng mỗi ngày; phí từ ngưỡng 2 triệu là 0,03%, tối đa 25.000 đồng.",
+    "relevant_documents": [
+      "digital_banking.txt"
+    ]
+  },
+  {
+    "id": "multi-004",
+    "category": "multi_hop",
+    "question": "Muốn tăng hạn mức chuyển tiền cần làm gì và xác minh ra sao?",
+    "reference_answer": "Yêu cầu điều chỉnh tại quầy sau khi xác minh danh tính.",
+    "relevant_documents": [
+      "digital_banking.txt"
+    ]
+  },
+  {
+    "id": "multi-005",
+    "category": "multi_hop",
+    "question": "Thanh toán hóa đơn miễn phí có thể thực hiện trong khung giờ nào?",
+    "reference_answer": "Không thu phí dịch vụ; thực hiện hàng ngày từ 00:00 đến 23:00.",
+    "relevant_documents": [
+      "digital_banking.txt"
+    ]
+  },
+  {
+    "id": "multi-006",
+    "category": "multi_hop",
+    "question": "Đăng ký cần độ tuổi nào, giấy tờ gì và số điện thoại được dùng cho mấy tài khoản?",
+    "reference_answer": "Từ 18 tuổi, cần căn cước còn hiệu lực và số điện thoại đang dùng; mỗi số điện thoại chỉ đăng ký một tài khoản.",
+    "relevant_documents": [
+      "digital_banking.txt"
+    ]
+  },
+  {
+    "id": "multi-007",
+    "category": "multi_hop",
+    "question": "Hỗ trợ hoạt động khi nào và mục tiêu phản hồi là bao lâu?",
+    "reference_answer": "Hỗ trợ trên ứng dụng 24/7; phản hồi mục tiêu trong một ngày làm việc.",
+    "relevant_documents": [
+      "digital_banking.txt"
+    ]
+  },
+  {
+    "id": "multi-008",
+    "category": "multi_hop",
+    "question": "So sánh phí duy trì tài khoản với số dư tối thiểu.",
+    "reference_answer": "Phí duy trì là 0 đồng/tháng và số dư tối thiểu cũng là 0 đồng.",
+    "relevant_documents": [
+      "fees_and_cards.txt"
+    ]
+  },
+  {
+    "id": "multi-009",
+    "category": "multi_hop",
+    "question": "Tổng phí năm đầu của thẻ vật lý lần đầu, gồm phát hành và thường niên, là bao nhiêu?",
+    "reference_answer": "50.000 đồng phí phát hành cộng 60.000 đồng thường niên, tổng cộng 110.000 đồng.",
+    "relevant_documents": [
+      "fees_and_cards.txt"
+    ]
+  },
+  {
+    "id": "multi-010",
+    "category": "multi_hop",
+    "question": "So sánh phí năm đầu thẻ ghi nợ ảo với thẻ vật lý mới.",
+    "reference_answer": "Thẻ ảo không có phí phát hành hay thường niên; thẻ vật lý có phí phát hành 50.000 đồng và thường niên 60.000 đồng.",
+    "relevant_documents": [
+      "fees_and_cards.txt"
+    ]
+  },
+  {
+    "id": "multi-011",
+    "category": "multi_hop",
+    "question": "So sánh phí rút 1 lần ở ATM MauBank và ngân hàng khác.",
+    "reference_answer": "ATM MauBank miễn phí; ATM ngân hàng khác trong nước thu 3.000 đồng/giao dịch.",
+    "relevant_documents": [
+      "fees_and_cards.txt"
+    ]
+  },
+  {
+    "id": "multi-012",
+    "category": "multi_hop",
+    "question": "Mất thẻ ghi nợ thì phí cấp lại và thời hạn tra soát giao dịch là bao lâu?",
+    "reference_answer": "Cấp lại thẻ mất phí 30.000 đồng; yêu cầu tra soát trong 60 ngày từ ngày giao dịch.",
+    "relevant_documents": [
+      "fees_and_cards.txt"
+    ]
+  },
+  {
+    "id": "multi-013",
+    "category": "multi_hop",
+    "question": "Hạn mức và phí rút tiền ATM mỗi ngày là gì?",
+    "reference_answer": "Hạn mức 20.000.000 đồng mỗi ngày; phí ATM MauBank miễn phí, ATM ngân hàng khác trong nước 3.000 đồng/giao dịch.",
+    "relevant_documents": [
+      "fees_and_cards.txt"
+    ]
+  },
+  {
+    "id": "multi-014",
+    "category": "multi_hop",
+    "question": "Mở tiết kiệm trực tuyến cần điều kiện gì và số tiền tối thiểu bao nhiêu?",
+    "reference_answer": "Cần tài khoản thanh toán MauBank; số tiền mở tối thiểu 1.000.000 đồng.",
+    "relevant_documents": [
+      "savings_and_deposits.txt"
+    ]
+  },
+  {
+    "id": "multi-015",
+    "category": "multi_hop",
+    "question": "Những kỳ hạn tiết kiệm trực tuyến nào có sẵn?",
+    "reference_answer": "1, 3, 6 và 12 tháng.",
+    "relevant_documents": [
+      "savings_and_deposits.txt"
+    ]
+  },
+  {
+    "id": "multi-016",
+    "category": "multi_hop",
+    "question": "Nếu tất toán sớm, lãi suất nào áp dụng và có được rút trước hạn không?",
+    "reference_answer": "Được tất toán trước hạn; toàn bộ số tiền tất toán áp dụng lãi suất không kỳ hạn tại ngày tất toán.",
+    "relevant_documents": [
+      "savings_and_deposits.txt"
+    ]
+  },
+  {
+    "id": "multi-017",
+    "category": "multi_hop",
+    "question": "Khi đến hạn có thể nhận tiền vào đâu hoặc tái tục thế nào?",
+    "reference_answer": "Có thể tất toán vào tài khoản thanh toán hoặc tự động tái tục cả gốc và lãi cho kỳ hạn tương ứng tiếp theo.",
+    "relevant_documents": [
+      "savings_and_deposits.txt"
+    ]
+  },
+  {
+    "id": "multi-018",
+    "category": "multi_hop",
+    "question": "Có thể thay đổi lựa chọn tái tục vào lúc nào?",
+    "reference_answer": "Có thể thay đổi trên ứng dụng trước ngày đáo hạn.",
+    "relevant_documents": [
+      "savings_and_deposits.txt"
+    ]
+  },
+  {
+    "id": "multi-019",
+    "category": "multi_hop",
+    "question": "Kết hợp mức phí thẻ vật lý và phí rút tại ATM khác ngân hàng.",
+    "reference_answer": "Phát hành thẻ vật lý lần đầu 50.000 đồng; rút tại ATM ngân hàng khác trong nước 3.000 đồng/giao dịch.",
+    "relevant_documents": [
+      "fees_and_cards.txt"
+    ]
+  },
+  {
+    "id": "multi-020",
+    "category": "multi_hop",
+    "question": "So sánh phí duy trì tài khoản và phí thường niên thẻ ghi nợ.",
+    "reference_answer": "Tài khoản không mất phí duy trì; thẻ ghi nợ có phí thường niên 60.000 đồng/năm.",
+    "relevant_documents": [
+      "fees_and_cards.txt"
+    ]
+  },
+  {
+    "id": "multi-021",
+    "category": "multi_hop",
+    "question": "Nếu đề nghị tra soát ngay sau giao dịch, thời gian khiếu nại còn bao lâu và phản hồi tối đa?",
+    "reference_answer": "Có thể yêu cầu trong vòng 60 ngày; phản hồi tối đa 7 ngày làm việc.",
+    "relevant_documents": [
+      "fees_and_cards.txt"
+    ]
+  },
+  {
+    "id": "multi-022",
+    "category": "multi_hop",
+    "question": "Chuyển tiền nội bộ và chuyển khoản liên ngân hàng có cùng phí không?",
+    "reference_answer": "Không. Nội bộ miễn phí; liên ngân hàng dưới 2 triệu phí 1.000 đồng, từ 2 triệu phí 0,03% tối đa 25.000 đồng.",
+    "relevant_documents": [
+      "digital_banking.txt"
+    ]
+  },
+  {
+    "id": "multi-023",
+    "category": "multi_hop",
+    "question": "Nêu hạn mức chuyển tiền và hạn mức rút ATM mỗi ngày.",
+    "reference_answer": "Chuyển tiền mặc định 100.000.000 đồng/ngày; rút ATM tối đa 20.000.000 đồng/ngày.",
+    "relevant_documents": [
+      "digital_banking.txt",
+      "fees_and_cards.txt"
+    ]
+  },
+  {
+    "id": "multi-024",
+    "category": "multi_hop",
+    "question": "Điều gì xảy ra khi tất toán sớm và lựa chọn đáo hạn tự động gồm những gì?",
+    "reference_answer": "Tất toán sớm áp dụng lãi suất không kỳ hạn; đến hạn có thể tái tục cả gốc và lãi cho kỳ hạn tiếp theo.",
+    "relevant_documents": [
+      "savings_and_deposits.txt"
+    ]
+  },
+  {
+    "id": "multi-025",
+    "category": "multi_hop",
+    "question": "Có thể thanh toán hóa đơn và chuyển tiền nội bộ vào ban đêm không?",
+    "reference_answer": "Chuyển nội bộ hoạt động 24/7; thanh toán hóa đơn được thực hiện hàng ngày từ 00:00 đến 23:00.",
+    "relevant_documents": [
+      "digital_banking.txt"
+    ]
+  },
+  {
+    "id": "unknown-001",
+    "category": "unanswerable",
+    "question": "Lãi suất vay mua nhà cố định trong 20 năm là bao nhiêu?",
+    "reference_answer": null,
+    "relevant_documents": []
+  },
+  {
+    "id": "unknown-002",
+    "category": "unanswerable",
+    "question": "Ngân hàng có chi nhánh nào tại Đà Nẵng?",
+    "reference_answer": null,
+    "relevant_documents": []
+  },
+  {
+    "id": "unknown-003",
+    "category": "unanswerable",
+    "question": "Phí chuyển tiền quốc tế bằng USD là bao nhiêu?",
+    "reference_answer": null,
+    "relevant_documents": []
+  },
+  {
+    "id": "unknown-004",
+    "category": "unanswerable",
+    "question": "Thẻ tín dụng được hoàn tiền bao nhiêu phần trăm?",
+    "reference_answer": null,
+    "relevant_documents": []
+  },
+  {
+    "id": "unknown-005",
+    "category": "unanswerable",
+    "question": "Tỷ giá USD hôm nay là bao nhiêu?",
+    "reference_answer": null,
+    "relevant_documents": []
+  },
+  {
+    "id": "unknown-006",
+    "category": "unanswerable",
+    "question": "Điều kiện vay mua ô tô gồm những gì?",
+    "reference_answer": null,
+    "relevant_documents": []
+  },
+  {
+    "id": "unknown-007",
+    "category": "unanswerable",
+    "question": "Ngân hàng có bảo hiểm tiền gửi tối đa bao nhiêu?",
+    "reference_answer": null,
+    "relevant_documents": []
+  },
+  {
+    "id": "unknown-008",
+    "category": "unanswerable",
+    "question": "Phí chuyển tiền SWIFT đến Nhật Bản thế nào?",
+    "reference_answer": null,
+    "relevant_documents": []
+  },
+  {
+    "id": "unknown-009",
+    "category": "unanswerable",
+    "question": "Ứng dụng hỗ trợ Apple Pay không?",
+    "reference_answer": null,
+    "relevant_documents": []
+  },
+  {
+    "id": "unknown-010",
+    "category": "unanswerable",
+    "question": "Lãi suất tiết kiệm kỳ hạn 18 tháng là bao nhiêu?",
+    "reference_answer": null,
+    "relevant_documents": []
+  },
+  {
+    "id": "unknown-011",
+    "category": "unanswerable",
+    "question": "Khách hàng doanh nghiệp mở tài khoản cần hồ sơ gì?",
+    "reference_answer": null,
+    "relevant_documents": []
+  },
+  {
+    "id": "unknown-012",
+    "category": "unanswerable",
+    "question": "Có thể đăng ký khoản vay trực tuyến tối đa bao nhiêu?",
+    "reference_answer": null,
+    "relevant_documents": []
+  },
+  {
+    "id": "unknown-013",
+    "category": "unanswerable",
+    "question": "Thời gian phê duyệt thẻ tín dụng mất mấy ngày?",
+    "reference_answer": null,
+    "relevant_documents": []
+  },
+  {
+    "id": "unknown-014",
+    "category": "unanswerable",
+    "question": "ATM ở địa chỉ cụ thể nào tại Thành phố Hồ Chí Minh?",
+    "reference_answer": null,
+    "relevant_documents": []
+  },
+  {
+    "id": "unknown-015",
+    "category": "unanswerable",
+    "question": "Ngân hàng có cung cấp dịch vụ két an toàn không?",
+    "reference_answer": null,
+    "relevant_documents": []
+  },
+  {
+    "id": "unknown-016",
+    "category": "unanswerable",
+    "question": "Phí thanh toán học phí tại trường đại học cụ thể là bao nhiêu?",
+    "reference_answer": null,
+    "relevant_documents": []
+  },
+  {
+    "id": "unknown-017",
+    "category": "unanswerable",
+    "question": "Tôi có thể vay tín chấp với lãi suất nào?",
+    "reference_answer": null,
+    "relevant_documents": []
+  },
+  {
+    "id": "unknown-018",
+    "category": "unanswerable",
+    "question": "Mức bồi thường bảo hiểm sức khỏe là bao nhiêu?",
+    "reference_answer": null,
+    "relevant_documents": []
+  },
+  {
+    "id": "unknown-019",
+    "category": "unanswerable",
+    "question": "Giao dịch chứng khoán có mất phí gì?",
+    "reference_answer": null,
+    "relevant_documents": []
+  },
+  {
+    "id": "unknown-020",
+    "category": "unanswerable",
+    "question": "Ngân hàng có hỗ trợ thanh toán QR ở nước ngoài không?",
+    "reference_answer": null,
+    "relevant_documents": []
+  },
+  {
+    "id": "unknown-021",
+    "category": "unanswerable",
+    "question": "Lãi suất không kỳ hạn chính xác hiện nay là bao nhiêu?",
+    "reference_answer": null,
+    "relevant_documents": []
+  },
+  {
+    "id": "unknown-022",
+    "category": "unanswerable",
+    "question": "Tổng đài điện thoại chăm sóc khách hàng là số nào?",
+    "reference_answer": null,
+    "relevant_documents": []
+  },
+  {
+    "id": "unknown-023",
+    "category": "unanswerable",
+    "question": "Thời gian làm việc tại quầy vào thứ Bảy thế nào?",
+    "reference_answer": null,
+    "relevant_documents": []
+  },
+  {
+    "id": "unknown-024",
+    "category": "unanswerable",
+    "question": "Phí chuyển tiền qua SWIFT bằng EUR là bao nhiêu?",
+    "reference_answer": null,
+    "relevant_documents": []
+  },
+  {
+    "id": "unknown-025",
+    "category": "unanswerable",
+    "question": "Hạn mức thanh toán thẻ tín dụng mỗi ngày là bao nhiêu?",
+    "reference_answer": null,
+    "relevant_documents": []
+  }
+]

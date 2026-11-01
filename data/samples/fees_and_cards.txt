@@ -1,0 +1,14 @@
+NGÂN HÀNG MẪU - BIỂU PHÍ TÀI KHOẢN VÀ THẺ
+Tài liệu minh họa hư cấu, không phải chính sách của một ngân hàng thật.
+
+1. Tài khoản thanh toán
+Phí duy trì tài khoản thanh toán là 0 đồng mỗi tháng. Số dư tối thiểu để duy trì tài khoản là 0 đồng.
+
+2. Thẻ ghi nợ MauBank
+Phí phát hành thẻ ghi nợ vật lý lần đầu là 50.000 đồng. Phí thường niên thẻ ghi nợ là 60.000 đồng mỗi năm. Cấp lại thẻ do mất hoặc hỏng có phí 30.000 đồng mỗi lần. Thẻ ghi nợ ảo không thu phí phát hành và không thu phí thường niên.
+
+3. Rút tiền
+Rút tiền mặt bằng thẻ ghi nợ tại ATM MauBank miễn phí. Rút tiền tại ATM ngân hàng khác trong nước có phí 3.000 đồng mỗi giao dịch. Hạn mức rút tiền tại ATM là 20.000.000 đồng mỗi ngày.
+
+4. Tra soát
+Khách hàng có thể yêu cầu tra soát giao dịch trên ứng dụng trong vòng 60 ngày kể từ ngày phát sinh giao dịch. Ngân hàng Mẫu phản hồi kết quả tra soát trong tối đa 7 ngày làm việc.

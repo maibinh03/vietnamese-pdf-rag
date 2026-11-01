@@ -1,0 +1,36 @@
+{
+  "evaluation": "offline TF-IDF retrieval baseline; not the production E5/Qdrant/LLM path",
+  "evaluated_at_utc": "2026-10-14T16:30:01.769073+00:00",
+  "runtime": {
+    "python": "3.14.3",
+    "platform": "Windows-11-10.0.26200-SP0"
+  },
+  "question_count": 100,
+  "corpus_chunk_count": 10,
+  "offline_relevance_threshold": 0.2,
+  "answerable_recall_at_5": 1.0,
+  "answerable_evidence_coverage_at_threshold": 0.9467,
+  "unanswerable_rejection_rate": 0.84,
+  "retrieval_latency_ms": {
+    "median": 0.578,
+    "p95": 0.723
+  },
+  "latency_scope": "Per-question TF-IDF scoring over in-memory chunks; excludes corpus loading, API, embedding model and vector database.",
+  "generation_accuracy": null,
+  "grounding_rate": null,
+  "generation_note": "Not measured: offline baseline does not call an LLM.",
+  "categories": {
+    "direct": {
+      "total": 50,
+      "hit_at_5": 50
+    },
+    "multi_hop": {
+      "total": 25,
+      "hit_at_5": 25
+    },
+    "unanswerable": {
+      "total": 25,
+      "hit_at_5": 0
+    }
+  }
+}
