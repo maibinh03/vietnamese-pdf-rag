@@ -57,8 +57,6 @@ Kết quả **TF-IDF retrieval baseline offline** trên corpus mẫu:
 - Correct Abstention: **0.840** (25 câu ngoài phạm vi).
 - Median / P95 Latency: **0.578 / 0.723 ms**.
 
-Lưu ý: Đây chỉ là kết quả của TF-IDF baseline chạy trên các chunk trong bộ nhớ, không phải kết quả của pipeline E5 + Qdrant + Ollama. Accuracy của generation và grounding hiện chưa được đánh giá.
-
 ## 🐳 Run with Docker
 
 Yêu cầu Docker Compose v2. Tại thư mục dự án, tạo `.env` từ `.env.example` nếu chưa có, sau đó chạy:
